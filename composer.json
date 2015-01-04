@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Integrate Facebook SDK into php",
     "keywords": [],
+    "license": "MIT",
     "authors": [
         {
             "name": "Fouquier Christopher",
